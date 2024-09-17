@@ -39,7 +39,7 @@ This project is a simple maze generator and solver implemented in Python using T
 
 ## Screenshots
 
-![Maze Example](screenshot.png)  <!-- Replace with an actual screenshot of your application -->
+![Maze Example](customMazeScreenShot.jpg)  <!-- Replace with an actual screenshot of your application -->
 
 ## Contributing
 
